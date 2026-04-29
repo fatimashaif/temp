@@ -1,0 +1,4 @@
+transactionId,amount,currency,valueDate,description,reference
+"tx-001",19.99,USD,2026-04-01T10:00:00Z,"Payment received","REF-1001"
+"tx-002",49.50,USD,2026-04-05T12:30:00Z,"Subscription fee","REF-1002"
+"tx-003",120.00,USD,2026-04-07T08:15:00Z,"Invoice payment","REF-1003"
